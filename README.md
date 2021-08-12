@@ -32,7 +32,7 @@
 	<tr>
 		<th align="left">
 			<a href="#books-mindmap">
-				<h3>Аспекты богатства</h3>
+				<h3>Aspects of wealth</h3>
         <p>Аспекты богатства и способы перехода между ними</p>
 				<img width="441" height="1">
 			</a>
