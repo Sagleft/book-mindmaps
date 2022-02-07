@@ -18,7 +18,7 @@
 	</tr>
 </table>
 
-Так как графический файл стал слишком большим (около 1 мб), draw.io его больше не переваривает для загрузки на Github. Поэтому последняя версия будет в файле books.drawio. Открыть можно через [Drawio-Desktop](https://github.com/jgraph/drawio-desktop/releases/tag/v16.5.1).
+Исходник диаграммы находится в файле books.drawio, открыть можно через [Drawio-Desktop](https://github.com/jgraph/drawio-desktop/releases/tag/v16.5.1).
 
 <table>
 	<tr>
