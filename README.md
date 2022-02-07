@@ -10,16 +10,6 @@
 				<img width="441" height="1">
 			</a>
 		</th>
-		<th align="right">
-			<a target="_blank" href="https://app.diagrams.net/#Hsagleft%2Fbook-mindmaps%2Fmain%2Fbooks.png">
-				<img width="64" height="36" src="assets/edit-btn.png">
-			</a>
-			<a href="#bot-adapter">
-				<h6>
-				</h6>
-				<img width="441" height="1">
-			</a>
-		</th>
 	</tr>
 	<tr>
 		<td colspan="2" align="center">
@@ -27,6 +17,8 @@
 		</td>
 	</tr>
 </table>
+
+Так как графический файл стал слишком большим (около 1 мб), draw.io его больше не переваривает для загрузки на Github. Поэтому последняя версия будет в файле books.drawio. Открыть можно через [Drawio-Desktop](https://github.com/jgraph/drawio-desktop/releases/tag/v16.5.1).
 
 <table>
 	<tr>
