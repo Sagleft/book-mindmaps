@@ -56,7 +56,7 @@
 
 ---
 
-![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)
+[![image](https://github.com/Sagleft/Sagleft/raw/master/image.png)](https://t.me/+VIvd8j6xvm9iMzhi)
 
 ### :globe_with_meridians: [Telegram канал](https://t.me/+VIvd8j6xvm9iMzhi)
 
